@@ -336,7 +336,7 @@ img {
 
 .pager--theme--dark {
     color: #000;
-    margin-bottom: 30px;
+    padding-bottom: 90px;
 }
 
 .pager--theme--dark .pager__item--active .pager__link{
@@ -488,12 +488,13 @@ img {
     font-size: 72px;
     line-height: 1;
     font-weight: 700;
-    margin-bottom: 118px;
+    margin-bottom: 87px;
 }
 
 .breadcrumbs__list {
     display: flex;
     align-items: center;
+    padding-bottom: 24px;
 }
 
 .breadcrumbs__item {
@@ -521,13 +522,10 @@ img {
     font-weight: 700;
 }
 
-.page-content {
-    background: #f2f2f2;
-    color: #303030;
-}
-
 .services {
-    margin-top: 140px;
+    background: #fff;
+    color: #303030;
+    padding-top: 129px;
 }
 
 .service {
@@ -560,7 +558,7 @@ img {
 /* section partners */
 .inner-section {
     color: #1a1b1e;
-    padding-top: 136px;
+    padding-top: 88px;
     padding-bottom: 117px;
 }
 
